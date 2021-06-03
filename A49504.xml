@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The fixed saint held forth in a farwell sermon preached at All-Hallowes-Lumbard-street August the 17. 1662 By Mr. Thomas Lye.</title>
+            <author>Lye, Thomas, 1621-1684.</author>
+         </titleStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49504</idno><idno type="EEBO-CITATION">99831623</idno>
+  <idno type="VID">36088</idno>
+  <idno type="EEBO-PROQUEST">2248499618</idno>
+  
+            <idno type="STC">Wing L3537</idno>
+            <idno type="STC">ESTC R220200</idno>
+            <idno type="PROQUEST">99831623</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99831623e"/>
+            <note>(EEBO-TCP ; phase 2, no. A49504)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36088)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2050:41)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The fixed saint held forth in a farwell sermon preached at All-Hallowes-Lumbard-street August the 17. 1662 By Mr. Thomas Lye.</title>
+                  <author>Lye, Thomas, 1621-1684.</author>
+               </titleStmt>
+               <extent>[4], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year 1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36088:1"/>
+            <pb facs="tcp:36088:1"/>
+            <p>THE FIXED SAINT Held forth in a Farwell SERMON PREACHED At <hi>All-Hallowes-Lumbard-street, August</hi> the 17. 1662.</p>
+            <p>By Mr. <hi>THOMAS LYE.</hi>
+            </p>
+            <p>Printed in the year 1662.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:36088:2"/>
+            <pb facs="tcp:36088:2"/>
+            <head>To the Reader.</head>
+            <p>IT was not to merit praise, nor to cast a reproach, that these Sermons were published, nor for the Prin<g ref="char:EOLhyphen"/>ters profit; since the best of Books are used but like Beads, which as soon as the Prayers are done, are dropt down, or like Vows never minded, when they be made.</p>
+            <p>But the Author who was skilful in divine aires, has sung to his Auditors an Epithalamium of Love, and having ended (with this Sermon) his service, with a weeping Epilogue, he bids thee farwell.</p>
+            <p>Some may condemn it, because tis Presbytery, but others will honour it, because tis Divinity. Mr. <hi>Lye</hi> did preach it, yet there is no <hi>lye</hi> in it, but truth in triumph rides with virtue and unarmed innocence.
+<pb facs="tcp:36088:3"/>And though this tapour is extinguished, and shot his head into the feeble air, his holy conversation, has so specious a glory, it will the brighter shine, when his funeral lights burn dim.</p>
+            <p>Thus Reader, things of the greatest profit are offer<g ref="char:EOLhyphen"/>ed at a litle price I will hold thee no longer; if I may have the good will of some, which I ever desired, I will bear the envy of others that I never deserved.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:36088:3"/>
+            <head>Mr. Lyes Sermon.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>August 17<seg rend="sup">h</seg> Ann. Dom.</hi> 1662.</date>
+               </dateline>
+            </opener>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Phil. 4.1.</hi>
+                  </bibl>
+                  <p>Therefore my Brethren dearly beloved and longed for, my joy and Crown, so stand fast in in the Lord my dearly beloved.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">B</seg>Eloved, I do well remember that up<g ref="char:EOLhyphen"/>on the 24<seg rend="sup">th</seg> of this moneth, 1651. I was then under the sentence of ba<g ref="char:EOLhyphen"/>nishment that very day I preach<g ref="char:EOLhyphen"/>ed my farewel Sermon to my people, because I would not swear against the King, having taken the Covenant to maintain his just pow<g ref="char:EOLhyphen"/>er;
+<pb n="2" facs="tcp:36088:4"/>then I could not forswear my selfe. The God of Heaven keep me that I may never do it; I am apt to think I could do any thing for this loving Con<g ref="char:EOLhyphen"/>gregation: but since beloved, the sentence is now gone out against us, and we that cannot subscribe, must not subsist: this is my last day I must preach to you. I shall now speak to you (God assisting me) if my passion will give me leave, just as I would speak as if I were now to dye. Therefore my Bre<g ref="char:EOLhyphen"/>thren dearly beloved and longed for, my Joy and Crown, stand fast in the Lord my dearly beloved.</p>
+            <p>
+               <hi>Paul</hi> was now a prisoner at <hi>Rome</hi> for the Gospel of Christ. 'Twas his second imprisonment; he was not far from being offered up for that Gospel he had preached; this Gospel the <hi>Philippians</hi> had heard him preach, and they sent so far to visit <hi>Paul,</hi> and to sup<g ref="char:EOLhyphen"/>ply his wants: A gracious temper that God hath gi<g ref="char:EOLhyphen"/>ven the Saints in <hi>London,</hi> and I believe God hath a blessing in store for them.</p>
+            <p>
+               <hi>Paul</hi> thinks he is not so much concerned in his own bands, as in the estate of the Saints. <hi>Pafradi<g ref="char:EOLhyphen"/>cus</hi> tells him that there were <hi>Hericanes</hi> abroad, false Doctrines, but yet the <hi>Philippians</hi> stood fast; here<g ref="char:EOLhyphen"/>upon <hi>Paul</hi> writes to them to goe on, and as they stand fast, to stand still and keep their ground, and be sure not to give an inch, knowing that at the long run their labor should not be vain in the Lord.</p>
+            <p>And so I come to enter my Text, wherein there are two things considerable.</p>
+            <pb n="3" facs="tcp:36088:4"/>
+            <p> First, a most melting compellation.</p>
+            <p>Secondly, a serious exhortation. The compellati<g ref="char:EOLhyphen"/>on, brethren dearly beloved, and longed for.</p>
+            <p>The <milestone type="tcpmilestone" unit="unspecified" n="1"/> exhortation, wherein there is matter of duty, <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+               <hi>stand fast, stand it out,</hi> stand so as you have stood, so stand fast in the Lord; In the Lords strength: for to stand in your own strength would be the way to fall, and to lay your selves open to temptation. If there be any wicked catchers here, let them know I speak nothing but what is the mind of the Text, and would not give occasion to be a greater sufferer then I am like to be.</p>
+            <div type="part">
+               <head>Observe from the words.</head>
+               <p>First, for the melting compellation, my brethren, <milestone type="tcpmilestone" unit="unspecified" n="1"/> my dearly beloved, <hi>Paul</hi> was such an Officer in the Church of God, as God did not abhorr but approve, and <hi>Paul</hi> wrot to some of the poorest of the <hi>Philippi<g ref="char:EOLhyphen"/>ans,</hi> and yet he calls them brethren: from whence take this observation.</p>
+               <p>
+                  <hi>That the highest officers in the Church of Christ, <label type="milestone">
+                        <seg type="milestoneunit">Doct. </seg>
+                     </label> though they be by office rulers over, yet by relation they are no more but brethren to the meanest Saints.</hi>
+               </p>
+               <p>Here we have no such thing as <hi>Rabbies,</hi> to whom we must swear; because they say it, we must swear it. <hi>Paul</hi> calls them brethren, and so he writes to them <hi>Col.</hi> 1. and so <hi>James</hi> the highest Apostle that Christ
+<pb n="4" facs="tcp:36088:5"/>ever made, <hi>James</hi> 2.5. My dearly beloved Brethren; And so <hi>Peter,</hi> Wherefore the rather brethren; and <hi>Iohn</hi> the beloved Disciple, Beloved brethren I write no new Commandement, 1 <hi>Joh.</hi> 2.7. Well if this be so beloved, that the highest officers in the Church of Christ, that Christ doth approve of, they are but bre<g ref="char:EOLhyphen"/>thren to the meanest Saints, then they are brethren to their fellow officers; if they had no more relation to the toe in the body, then no more to the eyes.</p>
+               <p>I would desire them that would hold authority, and bear rule, to read these two Scriptures.</p>
+               <p>The first is, <hi>Luk</hi> 22.25.</p>
+               <p>The second is, <hi>Matth.</hi> 20.26, 27.</p>
+               <p>That of <hi>Mat.</hi> is, <hi>Whosoever will be chief among you,</hi> one that would domineer, not onely over your estates, but over your consciences to, let him be your servant; for the son of man came not to be mi<g ref="char:EOLhyphen"/>nistred unto, but to Minister, and give his <hi>life</hi> a ran<g ref="char:EOLhyphen"/>som for many.</p>
+               <p>And he said unto them,<note place="margin">Luke 2.25.26</note> The Kings of the Earth ex<g ref="char:EOLhyphen"/>ercise Lordship over them, that is, over their slaves; but it shall not be so with you.</p>
+               <p>No, he that is greatest among you, let him be as the younger; sure if <hi>Paul</hi> be but a brother to <hi>Philip,</hi> then he is no more to <hi>Timothy.</hi>
+               </p>
+               <pb n="5" facs="tcp:36088:5"/>
+               <p> If the highest Officers in the Church of Christ, <milestone type="tcpmilestone" unit="unspecified" n="2"/> be but Brethren, then it is not for Brethren for to Lord it over their fellow-Brethren, to Lord it over Gods heritage. I have indeavoured to help your joy, but not to presse your faith, to cause you to beleive this or that because I beleive it. If so, you might turn Papist to morrow. Sayes Christ to him that would have had him speak to hs Brother to divide the In<g ref="char:EOLhyphen"/>heritance with him; Man, who made me a Judge over you? So say I, Man, who made thee a Lord over thy fellow Brethren? 2 <hi>Peter</hi> 5.3.</p>
+               <p>Thirdly, <milestone type="tcpmilestone" unit="unspecified" n="3"/> If the chiefest Officers in the Church of Christ be but Brethren, then there should not be any discord between fellow-Brethren; And truly it is one of the greatest comforts I have in the world, We have lived in love, blessed be God. Let us not fall out, sayes <hi>Abraham</hi> the Elder to <hi>Lot</hi> his younger cou<g ref="char:EOLhyphen"/>sin. Beloved, the discord between the Pastor and people is not the example of Christ.</p>
+               <p>Fourthly are those chief Officers that Christ does own, but Brethren? <milestone type="tcpmilestone" unit="unspecified" n="4"/> then let those appear before their Father in Heaven, if they durst, that have not a care of the Souls of their Brethren; we that are called by some the doggs of the Flock, what shall we prove dumb doggs!</p>
+               <p>What a comfort is it to a hundred of my dying Brethren this day, that they can say, Lord, we are clear from the blood of our Brethren! God sayes He will require the blood of a Brother of his Brother.</p>
+               <pb n="6" facs="tcp:36088:6"/>
+               <p> Take ye heed every one of his Neighbour,<note place="margin">Ier. 9.4.</note> and trust ye not in any Brother; for every Brother will utterly supplant, and every Neighbour will walk in Slanders.</p>
+               <p>If men will be great Officers and talk at a rate they understand not, I commend that Scripture, which I could wish were writ upon the lintels of the Posts of the doors; the place is;</p>
+               <p>Wherefore if meat make my Brother to offend,<note place="margin">1 Cor. 8.13.</note> I will eat no meat as long as I live; rather then in dan<g ref="char:EOLhyphen"/>ger his soul, I will part with all these gew gaws, and toyes.</p>
+               <p>Secondly, you have these terms of dearest affecti<g ref="char:EOLhyphen"/>ons,</p>
+               <p>My Brethren, my Joy, my Crown, dearly belo<g ref="char:EOLhyphen"/>ved; hence take this second observation;</p>
+               <p>
+                  <hi>That it becomes the highest Ministers, <label type="milestone">
+                        <seg type="milestoneunit">Doct. </seg>2</label> much more the lowest to bear the most vehement, ardent, strong, melting affections towards their Flock and people.</hi>
+               </p>
+               <p>Thus you have <hi>Paul</hi> to the <hi>Philippians</hi> in the Text; Beloved, you shall find <hi>Paul</hi> in all his Epistles thus melt in love to them, 2 <hi>Cor.</hi> 2, 3. His <hi>Corinthians</hi> were in his heart to live and dye with, not onely to live with them, but if God called him to it, to dye for them. So abundantly did he love them. 2 <hi>Cor.</hi> 12.15. he would gladly spend and be spent for them; he did long for them; not onely for them that were rich; but for all.</p>
+               <pb n="7" facs="tcp:36088:6"/>
+               <p> As for his <hi>Thessalonians,</hi> he tendred them as Chil<g ref="char:EOLhyphen"/>dren,<note place="margin">1 Thes. <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.7.</note> that he could be willing to part not only with the Gospell, but his soul also for them.</p>
+               <p>First then, give me leave to bespeak you in the words of <hi>Job,</hi> (for the hundreds of the Ministers of the Gospel, that this day are to be ravished from the delight of their eyes) Oh have pity upon me, for the hand of the Lord is upon me; What will nothing serve but our eyes to be pluckt out? how sad is it for the the Father to be pluckt from the Child, the Shepherd from the Flock, the Child from the Nur<g ref="char:EOLhyphen"/>ses Breast! This is a lamentation, and ought to be; and among the rest of thy faithful servants O Lord, I would say this of my selfe: I cannot say as she of her Husband, A bloody Husband hast thou been un<g ref="char:EOLhyphen"/>to me; but I know a loving Congregation have you been to me; I know none of you have desired my destruction, and which is more, there is not a man of you, that hath endeavoured to attaint my name, not three of you did ever mention any thing that might traduce my conscience; and there is not four of you that ever did deny to pay me my duties. Oh who could but love such a people, and who would deny and refuse to dye for such a people? well then, the Pastor must love his people.</p>
+               <p>Secondly, must the Pastors love their people? <milestone type="tcpmilestone" unit="unspecified" n="2"/> then the people must love their Pastors also. It is true, it lies in the power of man to separate the pa<g ref="char:EOLhyphen"/>stors and the people; but it lies not in their power to separate their hearts: If we do not see one another,
+<pb n="8" facs="tcp:36088:7"/>yet we may love one another, and pray for one ano<g ref="char:EOLhyphen"/>ther. But oh for my poor Brethren, hundreds of you that think you are undone! but you are not undone, though you cannot see as far as other men can see; <hi>I</hi> know if possible, you would live in love, and keep your consciences quiet.</p>
+               <p>Thirdly, <milestone type="tcpmilestone" unit="unspecified" n="3"/> must Pastors love their people? then here you may see the cause why they should not so much regard their livings. This is the great question, What is it worth, how much a year? Do they pay well? will it serve for such and such a thing? 2. <hi>Cor.</hi> 12.14. Not yours, but you; there it should go. We should not say as they, It is an excellent good living; As one said that I have heard of, Let me have their Tythes, and let their souls go to the devil. Not yours, but you; blessed be God, there be many can truly say it has been their peoples souls they have more loved then their peoples pay.</p>
+               <p>Once more; <milestone type="tcpmilestone" unit="unspecified" n="4"/> we must love them and tenderly too; <label type="milestone">
+                     <seg type="milestoneunit">Que. </seg>
+                  </label> What and yet leave us? It has been objected to me.</p>
+               <p>Yes, we must venture any thing for them, but damnation. <label type="milestone">
+                     <seg type="milestoneunit">An. </seg>
+                  </label> I do not come here to throw fire-brands. I blesse God I have a Christian regard for all of my fellow Brethren, the Ministry. And though I am un<g ref="char:EOLhyphen"/>satisfyed my self, yet I condemne no man. I beleive they do in their consciences subscribe (many of them) as I protest in the fear of God I cannot subscribe; for To him that doubts, sayes the Apostle, to him it is sin; Because I have not that light that others have.</p>
+               <pb n="9" facs="tcp:36088:7"/>
+               <p> Now my Brethren, I hope you would not have us to sin; for I protest in the fear of God, it is not the living I regard, but to serve my Master. If I should to keep my place, forfeit my communion with God, Woe unto me.</p>
+               <p>As <hi>David</hi> said; And oh that I could speak it with as good a heart as <hi>David</hi> did: <hi>Zadok,</hi> carry back the <hi>Ark</hi> of God again; if God delight in me, he will bring me back again that I might see it and his Temple; if not, here I am, let him do what seemeth good in his eyes.</p>
+               <p>Brethren, I could do any thing for you, but I will not sin. I know they will tell you that it is peevishness in us, and that we have Preach't against it, and are tender of our reputations. Beloved, I do preferre my Wife and Children before a blast of Air of peoples talk: I am very sensible what it is to be redu<g ref="char:EOLhyphen"/>ced to a Morsell of bread, let the God of Heaven and Earth do what he will with me, I would do any thing, but sin against my God I dare not.</p>
+               <p>Thirdly my joy, my Crown; that is, his present joy and future Crown: Or my joy, which <hi>I</hi> value more then a Crown.</p>
+               <p>
+                  <hi>Hence in the Third place take this, That the fixed, flourishing growth of the Saints in the love of the Gos<g ref="char:EOLhyphen"/>pel and Gospel-obedience, is or ought to be the Pa<g ref="char:EOLhyphen"/>stors joy and Crown.</hi>
+               </p>
+               <p>Though there was a Plague among them, yet they
+<pb n="10" facs="tcp:36088:8"/>were not infected, though <hi>Paul</hi> was in the Goal, yet this was his Crown, that they stood, I hope all are not pevish, I hope so, it will be our joy and crown to hear of your growth in Gospell knowledge, and Gos<g ref="char:EOLhyphen"/>pell profession. And if this be so as <hi>John</hi> said I have no greater joy in the world then to here that thy Children walk in the truth, so it should be the pray<g ref="char:EOLhyphen"/>ers and indeavours of all those that with their souls do really love their people when they themselves cannot look after their Children, that good Nurses might be looked out for them. What a joy was it that <hi>Moses</hi> Mother was made his Nurse, and who can tell, it may be our governors, may act as God does, give us to be Nurses to our own Children.</p>
+               <p>It may be thought not out of any merit of ours, yet of their own Clemency. But if I cannot Nurse my child my self, I will wish it as well as I can.</p>
+               <p>Lord whosoever shall succeed let him have a double ray, a treble portion of thy Spirit. That the Souls of the Sheep may thrive, that he may have skill to use both heart and hand.</p>
+               <p>Secondly, <milestone type="tcpmilestone" unit="unspecified" n="2"/> if the peoples thriving be the joy of a Godly Pastor, what do you think of those that hin<g ref="char:EOLhyphen"/>der their thriving? I will give you two Scriptures.</p>
+               <p>
+                  <hi>The Pharises said amongst themselves (they durst not speak Publickly)</hi> but who was it against?<note place="margin">John 12.19.</note> Why it was against Christ. Perceive you how you prevail no<g ref="char:EOLhyphen"/>thing? behold the whole world is gone after him, but
+<pb n="11" facs="tcp:36088:8"/>we will be sure to lessen his congregation or shut the doors against them; why now these pretended to be the guides, wo unto you <hi>Scribes, Pharises, Hipocrites,</hi> for ye shut up Heaven against men, what the <hi>Pharises</hi> who pretended they had the Keyes of Heaven,<note place="margin">Mat. 23.13.</note> these shut up Heaven, It may be their was not rome enough in Heaven for them and the people. Nay sayes our Saviour, you neither go in your selves nor suffer them that are entring to go in. They shut up the King<g ref="char:EOLhyphen"/>dome of Heaven against men, I dare not tell you at this time what that is, you may better Immagine then I can tell you, but remember I speak of the <hi>Pharises</hi> all this while.</p>
+               <p>I remember when I was a Child beloved, we had a Minister that one Lords day would preach up Holiness, and if any of the Parish did practise it, the next Lords day he would preach against them for practising of it.</p>
+               <p>And now my Brethren I am come to the last. My Ioy, my dearly Beloved: well I have but one word to leave with you the words of a dying man; you have known the Lord, and you have practised according to your knowledge, I see a <hi>Huracain</hi> a comming, keep your ground, if ever you hope to live with the Lord hereafter, keep your ground, stand fast, and live in the Lord here.</p>
+               <trailer>Here ends the morning Sermon.</trailer>
+            </div>
+         </div>
+         <div type="sermon">
+            <pb facs="tcp:36088:9"/>
+            <pb n="13" facs="tcp:36088:9"/>
+            <head>Mr. Lyes afternoon Sermon and farwell.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Phil.</hi> 4.2.</bibl>
+               </q>
+            </epigraph>
+            <p>THree Doctrines from these words we have already handled.</p>
+            <list>
+               <item>1. <hi>That the highest officers of the Church of Christ are but brethren to the meanest Saints.</hi>
+               </item>
+               <item>2. <hi>That it becomes the true Ministers of the Gospel to bear a vehement and tender affection to the stock that God has committed to their charge.</hi>
+               </item>
+               <item>3. <hi>That the flourishing state of Gods people in the growth of Grace, practice and profession of the Gospel,
+<pb n="14" facs="tcp:36088:10"/>is the Joy and Crown of their Paster.</hi>
+               </item>
+            </list>
+            <p>These we have spoke unto.</p>
+            <p>That it is the great duty of all true believers, in the blackest and most shaking seasons, to <hi>stand fast</hi> in the Lord.</p>
+            <p>This is the Counsel that <hi>Paul</hi> had to leave be<g ref="char:EOLhyphen"/>hind him, says he, <hi>you are now my Ioy and my Crown,</hi> do but stand fast, and my Ioy that a little before was but at <hi>Gamat,</hi> will get a note above <hi>Ela;</hi> we live if you stand, though we dye while you stand.</p>
+            <p>Whether these be black and shaking seasons or no, I am not now to determine, but I am now to show you your duty, and for Gods sake, let the words of a civil dying man take place; It is a <hi>Maxim,</hi> that the words of a dying man that revives again, he will remember when he comes to himselfe; It is most probable beloved, that neither you nor I, may see the faces of one another again till the day of Judgement. Mark your duty, it is indispenseable for all sincere believers in the blackest seasons to stand fast in the Lord.</p>
+            <p>I confesse I have a love for the whole auditory. I have a mess for them, but my <hi>Benjamins</hi> mess, is to those I could once call my own people; of all the world I love this City, and God loves it, or I am mistaken.</p>
+            <pb n="15" facs="tcp:36088:10"/>
+            <p> This proposition I shall prove, and then improve.</p>
+            <p>If I do not grosly mistake, this is an hour of temp<g ref="char:EOLhyphen"/>tation threatned by God to this place, and tis a com<g ref="char:EOLhyphen"/>fort that a Christian may stand with God, when he fals with man. <hi>Col.</hi> 4.12. <hi>Epaphras</hi> the servant of Christ saluteth you, and always striveth for you in prayer, that ye may stand fast in all the will of God, <hi>Phil.</hi> 1.20. let your conversation be as becommeth the Gospel, that when I come to see you (alas poor <hi>Paul</hi> thou wert beheaded before thou camest thi<g ref="char:EOLhyphen"/>ther.) But says he. <hi>whether I come or no you may strive together</hi> (not to pluck out one anothers throats, no more of that) but for the faith of the Gospel. 1 <hi>Cor.</hi> 15.5. Wherefore my beloved, be stedfast and im<g ref="char:EOLhyphen"/>moveable all wayes abounding in the work of the Lord knowing that your labour shall not be in vain in the Lord.</p>
+            <p>But wherein shall we stand steadfast? <label type="milestone">
+                  <seg type="milestoneunit">Quest. </seg>
+               </label>
+            </p>
+            <p>It is my comfort I have no new Doctrine to Preach unto you I do not begin to broach a new Opinion. <label type="milestone">
+                  <seg type="milestoneunit">Answ. </seg>
+               </label> But God will surely bring his people to his own tearmes or else farewell to <hi>England,</hi> If God should continue me here (a mercy I can hardly hope for) I should Preach this Doctrine.</p>
+            <div type="part">
+               <head>Stand fast.</head>
+               <p>First Stand stedfast in Judgement. <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               </p>
+               <p>Secondly Stand stedfast in Resolution. <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+               </p>
+               <pb n="16" facs="tcp:36088:11"/>
+               <p> Thirdly Stand stedfast in Faith.</p>
+               <p>Fourthly Stand stedfast in your Conscience.</p>
+               <p>First, stand fast in your judgement; strong doct<g ref="char:EOLhyphen"/>rines are like waves; if they do not split, they will shake; therefore be sure that you cast Anchor well; Stand fast in the truth (I had almost said all in a word) the Protestant truth, stand fast; strange Doct<g ref="char:EOLhyphen"/>rines are beating upon you, and beat they may, but shall never hurt you, if you stand fast; be no more Children tost to and fro, carried about with every wind of Doctrine by their slights and cunning craft, that can cog a dye; you must not waver, you must stand steady in judgement. I would have you stars, not meteors; I hope better things of you.</p>
+               <p>First, get good Principles; then be sure to stand to them. Though I cannot say but some tares are sown in this Parish; yet for the generality, I leave here an Orthodox place.</p>
+               <p>Secondly you must stand fast in Resolution. 1. <hi>Cor.</hi> 15.58. Be stedfast and immoveable; such as stand upon some foundations that do not stagger; if they find you stagger, they will think you are falling; though all the world turn about the Poles, the Poles do not, for they are fixed; many turnes we have had; and beloved, at this day the largest turn that ever we have known. If ever I have preacht false doctrine among you, witness against me at the day of Judge<g ref="char:EOLhyphen"/>ment; but if I have preacht the truth, then stand to it. If you cannot witness against it, but leave it, and not stand fast, it will witness against you at the day of Judgement.</p>
+               <pb n="17" facs="tcp:36088:11"/>
+               <p> Sayes <hi>Hester,</hi> I know it is death to go in unto the King, but I have sought God, and now Come life, com death, I will go, it is for the truth, <hi>if I perish, I perish,</hi> you must resolve against wavering.</p>
+               <p>Thirdly, there is a stedfastness of faith too, when we so believ that we do not waver. Give me leave to propose to you, my dear friends, though now no more my Congregation, Give me leave to ask you, as our Saviour did the Pharisees, <hi>the Baptism of</hi> Iohn, <hi>was it from Heaven, or of men?</hi> so the doctrine that you have heard, was it from Heaven, or of men? if it were of men cast it off, if from Heaven why should you not beleeve it; it is my comfort, that I never did deliver any thing to you that was not agreeable to Scripture. It is my comfort upon this day, that looks as like my dying day, as can be in the world. <hi>He that wavers is like a wave of the Sea.</hi> Blessed be God I am not now to begin to fix up<g ref="char:EOLhyphen"/>on my Religion, I know no way but this; If God be God (oh my dear friends) follow him, if <hi>Baal</hi> be God follow him, do not stand disputing and doubting, shall I, shall I, God has but one way, there is but one truth; If <hi>Baal</hi> be God follow <hi>Baal;</hi> it is an infinite mercy that any of us can leave any thing for Christ, that we do not all split upon a rock, a godly man do somtimes stumble in his way, but does never halt between two opinions.</p>
+               <p>Fourthly, there must be a stedfastness in consci<g ref="char:EOLhyphen"/>ence, I beleeve I shall never speak to you more, espe<g ref="char:EOLhyphen"/>cially you poor tender-hearted ones, I would not
+<pb n="18" facs="tcp:36088:12"/>be as those Watchmen that took away the Vail, I would speak a word in season to you; You must be stedfast in your conscience, you have a God pre<g ref="char:EOLhyphen"/>serving you: a Christ redeeming you: a Heaven preparing for you; you can never be half so willing to be saved, as God is to save you: You must be stedfast against all temptations to sin, and stedfast in faith and judgment.</p>
+               <p>Lastly, you must be stedfast in conversation; It is not running well, but running out; not to give a great deal of milk, and throw it down with your foot, then you will have a good dug, but a bad foot. Never give those bratts of <hi>Babylon</hi> occasion to say, that you may be a childe of God in the morning, and a childe of the divel at night, that we do contradict that in our conversation, that we seem to make out in our Profession.</p>
+               <p>But I com to the Reasons, we must be stedfast, and why.</p>
+               <p>Would you have me give you all the Reasons, bid me number the stars, and count the sands, there is nothing in God, in Christ, in the world, in the divel himself, but would give multitude of arguments.</p>
+               <p>First, <label type="milestone">
+                     <seg type="milestoneunit">Reason  </seg>1</label> I would argue from Christ, beleevers you love Christ, and now the honour of Christ lies at the stake, the Jesuits those meek Papists, will tell you, that it is a dishonor to Christ if you be not stedfast,
+<pb n="19" facs="tcp:36088:12"/>those meek Papists that love nothing more then the Virgin <hi>Maryes</hi> milk, and the blood of the Saints. Why did Jesus Christ die, and undergo all the wrath that men and devils could inflict upon him, but to give you the Conquest, and make you stand fast; sayes <hi>Joshua</hi> to his Captains, <hi>Come and set your feet upon the necks of these Kings,</hi> Josh. 3 24. and what a dishonour is this to a dying Saviour, to see his ser<g ref="char:EOLhyphen"/>vants flie. It was never known that men should flie before a conquered enemie, whose armes are taken away, whose limbs are cut off.</p>
+               <p>Secondly, it is a dishonor to the Spirit of Christ, for the Spirit is given to dwell in our hearts, and di<g ref="char:EOLhyphen"/>rect us to Heaven.</p>
+               <p>Thirdly, it is a dishonor to Christs truth. Oh let but a Saint fall, and what a dishonor does it bring to the truth. There was one poor Minister that I have heard of that slipt, and he was carried about in tri<g ref="char:EOLhyphen"/>umph, <hi>Here is the man that was so Zealous;</hi> I cannot ex<g ref="char:EOLhyphen"/>cuse any man for being drunk, yet methinks it is the part of a <hi>Cham;</hi> to discover his fathers nakednesse, as one observes, Religion never suffers more than under the hands of pretended Professors.</p>
+               <p>Fourthly and lastly, it is a great dishonor to Christs alsufficiencie, I argue the point, Is thy Christ able to protect thee against all evil, and give thee all good, if not, then deny him. If he be, then stand close to him.</p>
+               <pb n="20" facs="tcp:36088:13"/>
+               <p> Secondly, I would argue from the infinite advan<g ref="char:EOLhyphen"/>tage that will com to them, in a long run, upon four Grounds.</p>
+               <p>First, to keep to the truth is a condition of safety.</p>
+               <p>Secondly, it is a full condition.</p>
+               <p>Thirdly, it is a strong condition.</p>
+               <p>Fourthly, it is the freest condition.</p>
+               <p>
+                  <hi>I profess in the fear of God I have felt these things to be true.</hi>
+               </p>
+               <p>First, it is the safest condition, never do the Saints take hurt, but when they are from their center; while they are there, the devil cannot lay one of his clawes upon them. Let but a man leave but his Scriptu<g ref="char:EOLhyphen"/>ral station, and what temptation is he able to stand against. Let a man fall from the top of a house, and he cannot stop himself,<note place="margin">1 <hi>John.</hi> 5.18.</note>
+                  <hi>The evil one touches them not.</hi>
+               </p>
+               <p>Secondly, it is the fullest condition, it is best living upon a single God; there have many profest to me their prison has been like a Paradise to them, they ne<g ref="char:EOLhyphen"/>ver enjoyed so much of God, as when they had least of the creature.</p>
+               <p>Thirdly, it is the strongest condition, it is as a man that stands upon a rock, they that are in the sea may dash themselves with water, but not him. He is like <hi>Sampson</hi> with his locks, Let all the Philistines come, what does he care.</p>
+               <pb n="21" facs="tcp:36088:13"/>
+               <p> Lastly, it is the freest condition, he that deserts his principles, he thinks that every man is an Informer against him, he is afraid of one Promooter or ano<g ref="char:EOLhyphen"/>ther; but where the Spirit of God is there is free<g ref="char:EOLhyphen"/>ness. Thus beloved, I had thought to speak to seve<g ref="char:EOLhyphen"/>ral Heads; but I have a little work to do after this, a Funeral Sermon I must preach for a Minister de<g ref="char:EOLhyphen"/>ceased.</p>
+               <p>It may be your interest will hardly swallow these things, you will say, If we stand, we shall fall, nay, if you do not stand, you will fall.</p>
+               <p>It is the great duty of Christians to stand fast.</p>
+               <p>Then first, by way of lamentation first over our own souls. <label type="milestone">
+                     <seg type="milestoneunit">Ʋse </seg>1</label>
+               </p>
+               <p>Secondly, over other Congregations, Lord, must we say Hundreds.</p>
+               <p>First, over our own hearts we must stand; Oh how should we lament over the instabilitie of our own hearts, our declining from the true foundation every day. This is that that God complains of, and therefore we have much of reason to do it. To day we have been apt to cry Hosanna to the Son of God, tomorrow Crucifie him; <hi>Give us Barabbas.</hi> To day the Lord he is God, to morrow <hi>Baal</hi> he is God, any thing for our own interest.</p>
+               <p>Oh Lord what wilt thou do with such a people, be<g ref="char:EOLhyphen"/>lieve
+<pb n="22" facs="tcp:36088:14"/>it, these seven years I have expected the day that now we see.</p>
+               <p n="1">1. I did think there was no other way but what we see.</p>
+               <p n="2">2. With respect, secondly to our congregation. Beloved, this I confesse, I cannot speak, my heart is too big for my head. Is it the duty of people to stand, how should we mourn over those poor souls, that run away from God? Do you look upon it as a strange thing, for a ship to be tost to and fro? alas! the Pilot is taken from them: and for a flock of sheep to be scat<g ref="char:EOLhyphen"/>tered? why their Shepheard is taken from them: and that children should fall, and beat out their brains, their mother is taken from them.</p>
+               <p>Though a company of debauched wretches speak against us, without doubt, I am confident this City is the best place that God has in all the world; they hate the God that we worship, there is an ulcer in heart and head, you are afraid of it, but what will you do when you feel it.</p>
+               <p>I remember old <hi>Jacob</hi> when he came to die, hee would blesse his children,<note place="margin">A Ʋse of Ex<g ref="char:EOLhyphen"/>hortation.</note> and says <hi>Esau</hi> to his Father <hi>Isaack,</hi> blesse me, even me also, oh my father. Beloved, I have but a few blessings, a few exhor<g ref="char:EOLhyphen"/>tations to leave with you. It is very probable we shall never meet, till we meet at the day of Judg<g ref="char:EOLhyphen"/>ment. I blesse God, I never had a hand in any change
+<pb n="23" facs="tcp:36088:14"/>of Government in all my life, therefore hear me now, though you should never hear me more: the Exhortation is to stand fast in the Lord, I do not know the least person of you that is inclined to Po<g ref="char:EOLhyphen"/>pery; you are a people that have waited on the Or<g ref="char:EOLhyphen"/>dinances of God, and have not persecuted your Mini<g ref="char:EOLhyphen"/>ster: and I am sure a Minister may live as comfort<g ref="char:EOLhyphen"/>ably here as in any place in <hi>England,</hi> be sure alwayes <hi>abound in the work of the Lord,</hi> and though you do not know now, you shall know hereafter, <hi>your labour shall not be in vain in the Lord.</hi>
+               </p>
+               <p>And here I could give you som Arguments as this. <hi>If any man draw back, my soul shall have no pleasure in him,</hi> I could shew you som Examples of Heathens, as <hi>Alexander,</hi> when he was at <hi>India,</hi> he would see the greatest rarity in that countrey, there stept out som old men to him, and told him, Sir, when you come to <hi>Greece,</hi> tell them, that here are som old men, that cannot be made by all your powers to change their mindes: but what do we tell of old men, our very women their faith has conquered their tormen<g ref="char:EOLhyphen"/>tors: I could tell you of six, of seven troubles, that God has delivered us from, and he will not forsake us, he may forsake you for comfort, but never for sup<g ref="char:EOLhyphen"/>port.</p>
+               <p>In the next place, you are engaged to God, there are Baptismal Vows upon you, you have sworn to God, and have undertaken to be true to God to your lives end: Remember <hi>Zedekiah</hi>'s Cause, <hi>Ezek.</hi> 18.
+<pb n="24" facs="tcp:36088:15"/>you may play fast and loose with men, but do not do so with God, he will not take it at your hands: And beloved, if you do not stand you lose all you have laid out all your prayers, and all your sufferings. Remember beloved, you have but one God, and 'tis no matter if there be ten thousand devils against you,<note place="margin">2 Chron. 16.9.</note> they are all in one <hi>Chain.</hi>
+               </p>
+               <p>
+                  <hi>But what shall we do that we may stand?</hi>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Quest. </seg>
+                  </label>
+               </p>
+               <p>I will tell you what I intend to do, <label type="milestone">
+                     <seg type="milestoneunit">Answ. </seg>
+                  </label> and what I would advise you in this difficult houre.</p>
+               <p>First, if ever you would stand, be not proud Chri<g ref="char:EOLhyphen"/>stians; if errour and prophaneness be in the heart, thou canst not stand;<note place="margin">2 Tim. 3.2.</note> If you would be stedfast, be low in your own eyes; do not judge such a one can<g ref="char:EOLhyphen"/>not be honest, he is an Independent, and the other, for he is an Anabaptist; and the other is not honest, for he cannot conform: I bless God I do not lay the stresse of my salvation upon these; it has bin my un<g ref="char:EOLhyphen"/>happiness always to be of the sinking side, do not spend your time in censuring this man, and justifying that man, <hi>I</hi> do profess if I could conform without sin I would, but if <hi>I</hi> do it against my conscience, <hi>I</hi> should sin and break my peace: that man or woman that is most busie in censuring others, are ever least employed in judging themselvs: Remember Mr. <hi>John Bradford,</hi> he would not censure <hi>Bonner</hi> nor <hi>Gardiner,</hi> those Sotts, but, says he, they call'd <hi>Iohn Bradford</hi> the hypocritical <hi>Iohn Bradford:</hi> look into the main, Ex<g ref="char:EOLhyphen"/>amine your own hearts.</p>
+               <pb n="25" facs="tcp:36088:15"/>
+               <p> Secondly, take heed you be not loose Christians, will you remember one thing for me, a loose Prote<g ref="char:EOLhyphen"/>stant is one of the persons in the world to make a strict Papist, such a one he turnes Protestant because his Prince is a Protestant, tell me of his Religion, he knows not what it is; observe those that are the loosest among you, and see if they have any Religion at all, they will be Turks to get gain.</p>
+               <p>Thirdly, take heed you be not worldly Christians, he that has a worldly heart, profer him but thirtie pie<g ref="char:EOLhyphen"/>ces of silver, and he will sell his Saviour. The world is a great temptation, and if we are overcom by the world, and the world is not overcom by us, we shall not conquer one temptation in the world (sayes our Saviour) <hi>You shall have tribulation, but be of good cheer, for I have overcom the world;</hi> but oh Lord do but arm us, and let the smiles and frowns and love of the world do what they can.</p>
+               <p>Fourthly, take heed you be not hypocritical Chri<g ref="char:EOLhyphen"/>stians, that is thus, take heed you do not receive the truth, and not receive it in the love of it, 2 <hi>Thess.</hi> 2.20. they did receive it, but they did not receive it in the love of it, therefore God gave them up to beleeve lies, to be damned. It is just with God that they should fall into real error, whose hearts never did love real truth.</p>
+               <p>Fifthly, take heed of being venturers, and God<g ref="char:EOLhyphen"/>tempting Christians; When do we tempt God? when I do run into a Pest-house, and say, God will preserve me from the plague; <hi>I</hi> could tell you of two spiritual Pest-houses, for principles one, for practises
+<pb n="26" facs="tcp:36088:16"/>another, <hi>I</hi> do not say Play houses on one hand, and Masse-houses on the other hand, <hi>Iulian</hi> that wicked Apostate fell into his Apostacie, by hearing one preach, all the world cannot answer this. <hi>Iudas</hi> was a true Apostle, though a bad man; but this <hi>I</hi> say, do not venture, and run your selves upon temptations. You have heard of a will-worship, and you have a double minde to see it, and suppose when you be there, the devil should com and lay his pawes upon you, what do you here, says he, upon my ground? If you would not be found in the divels, do not com into his pound.</p>
+               <p>If you would not have your pockets pickt, go not among the cheaters.<note place="margin">1 Tim. 2.5.</note>
+                  <hi>If any man teach other doctrine, and consent not to wholesom words, from such withdraw thy self,</hi> that is a good separation. Another is this, where God does not finde a mouth to speak, do not you finde an eare to hear, nor an heart to believe. This is one of the grand points of my Compass by which <hi>I</hi> steer my course. If any come with a doctrin, that is not according to the Will of God, Go and car<g ref="char:EOLhyphen"/>ry your doctrine where you will (say) and open your pack in another place; this will secure in ten thousand of temptations, where <hi>I</hi> have not a promise, precept, threatning, or command, <hi>I</hi> am not to take notice of it.</p>
+               <p>
+                  <hi>What ground have you for this?</hi>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Obj. </seg>
+                  </label>
+               </p>
+               <p>Jesuit, <label type="milestone">
+                     <seg type="milestoneunit">Answ. </seg>
+                  </label>
+                  <hi>I</hi> will tell thee my ground, If I must believ with an implicite faith, I should turn Papist tomor<g ref="char:EOLhyphen"/>row,<note place="margin">Matth. 15.2.</note>
+                  <hi>There came to Iesus the Scribes and Pharisees, the most eminent of them, saying, what do thy disciples trans<g ref="char:EOLhyphen"/>gresse
+<pb n="27" facs="tcp:36088:16"/>the Traditions of the Elders;</hi> They would needs tell Christ, he was not a son of the Church of the Iewes; <hi>Why,</hi> sayes Christ, <hi>what has my disciples done? why they wash not their hands when they eat bread;</hi> sayes Christ, why do you offer this tradition, you have not any Word of God for this, but, say they, is there any thing in the Word of God against it? nay, but sayes Christ, if you will give out your imposition, you should make out your institution; you pull down the fifth commandment, teaching children to be disobe<g ref="char:EOLhyphen"/>dient to Parents, <hi>If he say it is a gift; you hypocrites, you were told of it long ago; Well did</hi> Esaias <hi>tell you, you wash your hands, and you wash your mouth, but your hearts are far off from me;</hi> but, say they, we hope our wor<g ref="char:EOLhyphen"/>ship is good. <hi>No,</hi> says he, <hi>in vain they worship me, teach<g ref="char:EOLhyphen"/>ing for doctrin the commandments.</hi> But what if I did wash my hands, what a piece of matter is it, yes, and starve father and mother to give to a Nunnerie and Frierie; it is no matter for father and mother, and therefore saies God, <hi>in vain do they worship me.</hi>
+               </p>
+               <p>Thou Christian, thou that doest expect Christs Benediction, see for his Institution. <hi>Dent.</hi> 12.32. <hi>What things soever</hi> I <hi>command thee, that do thou, thou shalt not add thereto, nor diminish from.</hi> You must not deal with the Ordinances of God as <hi>Procust</hi> did with men, If they were too long for his bed, he would cut them shorter, and if they were too short he would stretch them out longer. Remember, never to lend an eare, to that which God speaks not.</p>
+               <p>Thirdly, if ever you would stand stedfast, beware of shaking Doctrins.</p>
+               <pb n="28" facs="tcp:36088:17"/>
+               <p> First, beware of all Doctrines that tend to licenti<g ref="char:EOLhyphen"/>ousnesse and prophanenesse; if any should tell you, you may prophane the Sabbath day, remember that a Gospel Doctrine teacheth us to deny all ungodliness, and worldly lust, and to live soberly and godlily in this present world.</p>
+               <p>Secondly, if any Doctrine lifts up-mans free will, and debases free grace, it is a wicked doctrine. The Papists will tell you, we are alive, but <hi>Paul</hi> say's, we are dead? nay, they say we can close with Christ if we will. But 1 Cor. 2.4. the Apostle sayes, The na<g ref="char:EOLhyphen"/>tural man understands not these things because they are spiritually discerned; they will tell you, that a na<g ref="char:EOLhyphen"/>tural man may love God with all his heart; but the Apostle tells us, Rom. 8.7. that the wisdom of the flesh is enmity against God. But if they do tell us there is righteousness within us, as those poor Souls that we call Quakers hold, remember no, I must be saved by Christ alone, be as holy as if there were no Christ to save, but then onely beleeve in him, as if there were no righteousnesse in thee at all; come and tell me of the merit of Saints not to be found in him, not having my own righteousnesse,<note place="margin">Philip. 3.9.</note> that is my Scri<g ref="char:EOLhyphen"/>pture.</p>
+               <p>It may be their Scripture is fomthing out of the A<g ref="char:EOLhyphen"/>pocripha, for it is said in Scripture, that he was made sin for us, that we might be made the righteousness of God in him. Again, when all my strings are broke I have one left, I can pray yet; as long as thou canst pray, thou wilt never dye; you had rather stand a<g ref="char:EOLhyphen"/>gainst the Cannons of the Church, then the Prayers
+<pb n="29" facs="tcp:36088:17"/>of the Saints; there is a great houre of temptation coming upon you, I beleeve it will be a great hour of temptation, that you that now do trade, it shall be said unto you, you shall trade no more.</p>
+               <p>Wives and Children were great temptations, the bloody Papists knew that, and therefore they caused them to be set before the Martyrs: there is no relief on Earth, and therefore pray to Heaven, that of all things God would make you sincere hearted, in lipp and life; to him that hath shall be given.</p>
+               <p>Lastly, would you be stedfast Christians, then make it your great work to attend those Ordinances that God has prescribed to make you stedfast.</p>
+               <p>VVhat are those. <label type="milestone">
+                     <seg type="milestoneunit">Quest. </seg>
+                  </label>
+               </p>
+               <p>VVhy there are secret Ordinances, <label type="milestone">
+                     <seg type="milestoneunit">Answ. </seg>
+                  </label> it may be thou canst not be so much in a Pulpit, but be more in thy Closet; it may be thou mayst not have that freedome with God in publique, but worship him in private.</p>
+               <p>Remember to instruct your Families; how many grave faces do I see here, that can remember thirtie years ago, you could not go through the Streets on this day, but one Family would be singing praises to God, a<g ref="char:EOLhyphen"/>nother praying to God: Let the Amorites do what they will, but for you and your servants serve the Lord. If you cannot have the preaching of Sermons, then read Sermons: let the debaucht Atheists of the world do what they will, though they do not love you, they will fear you: though you cannot have the opportunitie that now you have, yet make use of them that you shall
+<pb n="30" facs="tcp:36088:18"/>have: and you Masters of this Parish, keep your Ser<g ref="char:EOLhyphen"/>vants in your Houses this day for Gods sake, they will thank you for it hereafter, especially at the day of judgment.</p>
+               <p>What will you have us to do for publique duties. <label type="milestone">
+                     <seg type="milestoneunit">Quest. </seg>
+                  </label>
+               </p>
+               <p>Where Christ does finde a tongue to speak, let us finde an ear to hear. <label type="milestone">
+                     <seg type="milestoneunit">Answ. </seg>
+                  </label>
+               </p>
+               <p>And first, hear those that you think are godly, beg of God to give this City Pastors after his own heart, not such as may daube with untempered morter, nor those that may prophesie lies in the Name of the Lord: not clouds without water, but able Ministers, Guides to the blinde, burning and shining Lights, and faithful Stewards, What should you do? Why what did you twentie years ago, I shall be in the same capacitie as you after this day, not to be owned as a Minister more, and I think my self bound to hear the word of God, but I will not hear every one.</p>
+               <p>One advice more, what ever abuses you do finde in Pastor or People, do not you go as your old use has been, to rail at them, this is wicked, but do as God has commanded, If thy Brother offend thee, tell him of it privatly, if he will not hear thee, take two more, if he will not hear them, tell it the Church, and leave him with them. I have now spoke somthing from this Scripture, and have no more to say to you, but that the God of Heaven would give you to minde these plain things; I cannot remember one word I have spoken to you, that I would not have said, if I had been dying and going to my God.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:36088:18"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
